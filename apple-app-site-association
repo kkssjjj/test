@@ -1,0 +1,15 @@
+{
+  "applinks": {
+   "apps": [],
+   "details": [
+    {
+     "appID": "F5NU2PA3PK.com.nhnent.toastbeauty.user.test”,
+     "paths": [ “/web”,“/web/*”,”/”]
+    },
+    {
+     "appID": "F5NU2PA3PK.com.nhnent.toastbeauty.user.test”,
+     "paths": [ “*”]
+    }
+   ]
+ }
+}
